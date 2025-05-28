@@ -1,0 +1,7 @@
+pygame
+psutil
+sortedcontainers
+numpy
+scipy
+pandas
+matplotlib

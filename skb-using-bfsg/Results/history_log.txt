@@ -1,0 +1,192 @@
+Datatime (UTC+7): 23/05/2025 15:10:32 PM
+Problem: Testcases/40.txt
+Algorithm: BFSG
+Solution: D, R, R, U, D, L, L, U, R, U, R, D, L, L, D, D, D, R, R, U, R, R, U, U, L, L, U, L, D, L, D, D, D, R, R, U, U, L, U, U, R, U, R, D, L, L, D, D, R, U, D, D, R, R, U, U, L, L, R, U, U, L, D, L, D, U, R, R, D, R, D, D, L, L, U, U, L, L, D, R, U, R, R, R, D, D, L, L, D, L, L, U
+Number of steps: 92
+Nodes generated: 1378
+Nodes repeated: 754
+Nodes explored: 625
+Memory: 3.3671875 MB
+Duration: 0.012813329696655273 secs
+
+
+===================================================
+===================================================
+
+
+Datatime (UTC+7): 23/05/2025 15:10:19 PM
+Problem: Testcases/1.txt
+Algorithm: Manually
+Solution: U, U, L, U, U, R, L, D, D, R, R, R, U, R, U, U, L, L, D, D, U, L, L, D, D, R, R, L, D, D, R, R, U, U, L, U, R
+Number of steps: 37
+Nodes generated: 0
+Nodes repeated: 0
+Nodes explored: 0
+Memory: 0 MB
+Duration: 11.40866208076477 secs
+
+
+===================================================
+===================================================
+
+
+Datatime (UTC+7): 23/05/2025 15:09:42 PM
+Problem: Testcases/1.txt
+Algorithm: BFSG
+Solution: U, U, L, U, U, R, L, D, D, R, R, U, R, R, U, U, L, L, D, D, U, L, L, D, D, R, R, L, D, D, R, R, U, U, L, U, R
+Number of steps: 37
+Nodes generated: 244
+Nodes repeated: 126
+Nodes explored: 119
+Memory: 3.03125 MB
+Duration: 0.0019884109497070312 secs
+
+
+===================================================
+===================================================
+
+
+Datatime (UTC+7): 20/05/2025 20:36:07 PM
+Problem: Testcases/1.txt
+Algorithm: BFSG
+Solution: U, U, L, U, U, R, L, D, D, R, R, U, R, R, U, U, L, L, D, D, U, L, L, D, D, R, R, L, D, D, R, R, U, U, L, U, R
+Number of steps: 37
+Nodes generated: 244
+Nodes repeated: 126
+Nodes explored: 119
+Memory: 3.07421875 MB
+Duration: 0.0009918212890625 secs
+
+
+===================================================
+===================================================
+
+
+Datatime (UTC+7): 20/05/2025 20:32:26 PM
+Problem: Testcases/1.txt
+Algorithm: BFSG
+Solution: U, U, L, U, U, R, L, D, D, R, R, U, R, R, U, U, L, L, D, D, U, L, L, D, D, R, R, L, D, D, R, R, U, U, L, U, R
+Number of steps: 37
+Nodes generated: 244
+Nodes repeated: 126
+Nodes explored: 119
+Memory: 2.953125 MB
+Duration: 0.0015149116516113281 secs
+
+
+===================================================
+===================================================
+
+
+Datatime (UTC+7): 19/05/2025 00:21:46 AM
+Problem: Testcases/1.txt
+Algorithm: BFSG
+Solution: U, U, L, U, U, R, L, D, D, R, R, U, R, R, U, U, L, L, D, D, U, L, L, D, D, R, R, L, D, D, R, R, U, U, L, U, R
+Number of steps: 37
+Nodes generated: 244
+Nodes repeated: 126
+Nodes explored: 119
+Memory: 2.921875 MB
+Duration: 0.0015017986297607422 secs
+
+
+===================================================
+===================================================
+
+
+Datatime (UTC+7): 18/05/2025 23:04:24 PM
+Problem: Testcases/7.txt
+Algorithm: BFSG
+Solution: L, U, L, L, U, R, R, R, L, L, U, U, R, R, D, R, D, L, L, R, U, U, L, L, D, D, R, D, D, R, R, U, R, U, L, L, U, U, L, L, D, D, L, D, R, U, U, U, R, R, D, D, L, R, U, U, L, L, D, D, R, D, L, U, R, R, R, D, D, D, D, L, L, U, U
+Number of steps: 75
+Nodes generated: 1251
+Nodes repeated: 688
+Nodes explored: 564
+Memory: 3.328125 MB
+Duration: 0.004991054534912109 secs
+
+
+===================================================
+===================================================
+
+
+Datatime (UTC+7): 18/05/2025 23:04:12 PM
+Problem: Testcases/7.txt
+Algorithm: BFSG
+Solution: L, U, L, L, U, R, R, R, L, L, U, U, R, R, D, R, D, L, L, R, U, U, L, L, D, D, R, D, D, R, R, U, R, U, L, L, U, U, L, L, D, D, L, D, R, U, U, U, R, R, D, D, L, R, U, U, L, L, D, D, R, D, L, U, R, R, R, D, D, D, D, L, L, U, U
+Number of steps: 75
+Nodes generated: 1251
+Nodes repeated: 688
+Nodes explored: 564
+Memory: 3.29296875 MB
+Duration: 0.006535053253173828 secs
+
+
+===================================================
+===================================================
+
+
+Datatime (UTC+7): 18/05/2025 15:40:05 PM
+Problem: Testcases/1.txt
+Algorithm: BFSG
+Solution: U, U, L, U, U, R, L, D, D, R, R, U, R, R, U, U, L, L, D, D, U, L, L, D, D, R, R, L, D, D, R, R, U, U, L, U, R
+Number of steps: 37
+Nodes generated: 244
+Nodes repeated: 126
+Nodes explored: 119
+Memory: 2.90234375 MB
+Duration: 0.0 secs
+
+
+===================================================
+===================================================
+
+
+Datatime (UTC+7): 18/05/2025 15:38:56 PM
+Problem: Testcases/1.txt
+Algorithm: BFSG
+Solution: U, U, L, U, U, R, L, D, D, R, R, U, R, R, U, U, L, L, D, D, U, L, L, D, D, R, R, L, D, D, R, R, U, U, L, U, R
+Number of steps: 37
+Nodes generated: 244
+Nodes repeated: 126
+Nodes explored: 119
+Memory: 2.88671875 MB
+Duration: 0.0009989738464355469 secs
+
+
+===================================================
+===================================================
+
+
+Datatime (UTC+7): 18/05/2025 15:35:55 PM
+Problem: Testcases/1.txt
+Algorithm: BFSG
+Solution: U, U, L, U, U, R, L, D, D, R, R, U, R, R, U, U, L, L, D, D, U, L, L, D, D, R, R, L, D, D, R, R, U, U, L, U, R
+Number of steps: 37
+Nodes generated: 244
+Nodes repeated: 126
+Nodes explored: 119
+Memory: 2.91015625 MB
+Duration: 0.0009992122650146484 secs
+
+
+===================================================
+===================================================
+
+
+Datatime (UTC+7): 18/05/2025 15:34:31 PM
+Problem: Testcases/1.txt
+Algorithm: BFSG
+Solution: U, U, L, U, U, R, L, D, D, R, R, U, R, R, U, U, L, L, D, D, U, L, L, D, D, R, R, L, D, D, R, R, U, U, L, U, R
+Number of steps: 37
+Nodes generated: 244
+Nodes repeated: 126
+Nodes explored: 119
+Memory: 2.95703125 MB
+Duration: 0.001008749008178711 secs
+
+
+===================================================
+===================================================
+
+
